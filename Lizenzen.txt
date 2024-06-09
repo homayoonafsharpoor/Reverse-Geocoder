@@ -1,0 +1,5 @@
+Das Plugin Reverse-Geocoder2.05 wird unter der CC BY 3.0 Lizenz veröffentlicht. Die Arbeit darf in jedwedem Format oder Medium vervielfältigt, weiterverbreitet, verändert und darauf aufgebaut werden.
+Unter folgenden Bedingungen:
+
+Namensnennung — Sie müssen angemessene Urheberangaben machen und angeben, ob Änderungen vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden.
+Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.
