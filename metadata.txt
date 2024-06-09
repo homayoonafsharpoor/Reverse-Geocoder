@@ -8,3 +8,6 @@ qgisMinimumVersion=3.0
 name=Homayoon Afshrpoor
 email=homayoon.afsharpoor@gmail.com
 linkedin=https://www.linkedin.com/in/homayoon-afsharpoor/
+
+[about]
+home_page=https://github.com/homayoonafsharpoor/Reverse-Geocoder
