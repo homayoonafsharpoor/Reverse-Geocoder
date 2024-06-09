@@ -1,0 +1,10 @@
+[general]
+name=Reverse Geocoder
+description=Ein Plugin, das umgekehrte Geokodierung für Punkte in einer Shapefile durchführt.
+version=2.05
+qgisMinimumVersion=3.0
+
+[author]
+name=Homayoon Afshrpoor
+email=homayoon.afsharpoor@gmail.com
+linkedin=https://www.linkedin.com/in/homayoon-afsharpoor/
